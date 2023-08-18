@@ -1,1 +1,1 @@
-from apps.user.serializers.user import CustomUserAuthSerializer, OTPVerifySerializer
+from apps.user.serializers.user import *
